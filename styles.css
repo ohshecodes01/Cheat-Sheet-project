@@ -1,0 +1,29 @@
+body {
+    background-color: honeydew;
+}
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+    color: hotpink;
+}
+table {
+    border: 2px solid hotpink;
+    margin: 0 auto;
+    width: 650px;
+}
+th{
+    font-family: 'lato', sans-serif;
+    background-color: lightseagreen;
+}
+td{
+    font-family: 'lato', sans-serif;
+    padding: 1px;
+    border-top: 1px solid hotpink;
+}
+.code{
+    font-family: monospace;
+    background-color: beige;
+}
